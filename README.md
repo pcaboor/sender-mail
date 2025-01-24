@@ -76,3 +76,4 @@ Si vous rencontrez des problèmes, assurez-vous que :
 
 En cas d'erreur, un message sera affiché dans la console avec des détails supplémentaires.
 
+test
